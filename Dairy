@@ -1,0 +1,15 @@
+🐄 Dairy Business Administrator – Backend
+The Dairy Business Administrator backend is a Spring Boot–based REST API system developed to streamline dairy operations including farmer registration, milk collection, rate management, and payment processing. This system is part of a full-stack dairy management solution aimed at automating and digitizing rural dairy business workflows.
+
+🔧 Key Features:
+🧑‍🌾 Dairy & Farmer Registration – Create and manage dairy entities with master data like state, shifts, milk types, and payment periods.
+
+🥛 Milk Collection APIs – Record milk collection data with FAT & CLR values.
+
+💰 Rate Chart Management – Maintain rate charts based on FAT-CLR for accurate payment calculations.
+
+📅 Payment Period Tracking – Automate payment calculation periods (weekly, bi-weekly, monthly).
+
+🔐 DTO-Based Structure – Secure and efficient data transfer using DTOs and service-layer architecture.
+
+💾 MySQL Integration – All data is securely stored and managed in a MySQL database.
